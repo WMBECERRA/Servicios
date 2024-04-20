@@ -1,0 +1,24 @@
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.xml
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Servicios\Desktop\SistemaVentas2\AccesoADatos\obj\Debug\AccesoAD.856C7FE8.Up2Date
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.xml
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\obj\Debug\AccesoAD.856C7FE8.Up2Date
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\AccesoADatos\obj\Debug\AccesoADatos.pdb

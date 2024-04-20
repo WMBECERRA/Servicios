@@ -1,0 +1,40 @@
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\AccesoADatos.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Datos.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\AccesoADatos.pdb
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\AccesoADatos.dll.config
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Datos.pdb
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Datos.dll.config
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.xml
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\obj\Debug\Prueba2.csproj.AssemblyReference.cache
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\obj\Debug\Prueba2.csproj.Up2Date
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\obj\Debug\Prueba2.pdb
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Negocio.dll
+C:\Users\Servicios\Desktop\SistemaVentas2\Prueba2\bin\Debug\Negocio.pdb
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\AccesoADatos.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Datos.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Negocio.dll
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\AccesoADatos.pdb
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\AccesoADatos.dll.config
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Datos.pdb
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Datos.dll.config
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\Negocio.pdb
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.xml
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\obj\Debug\Prueba2.csproj.AssemblyReference.cache
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\obj\Debug\Prueba2.csproj.Up2Date
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\PC01\Desktop\Practicas IS\SistemaVentas2\Prueba2\obj\Debug\Prueba2.pdb
